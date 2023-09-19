@@ -1,0 +1,48 @@
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 1 (Primer Programa)\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache

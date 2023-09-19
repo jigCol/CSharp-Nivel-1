@@ -1,0 +1,16 @@
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.AssemblyInfoInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.AssemblyInfo.cs
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\Ejercicio 4.exe
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\Ejercicio 4.deps.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\Ejercicio 4.runtimeconfig.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\Ejercicio 4.runtimeconfig.dev.json
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\Ejercicio 4.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\ref\Ejercicio 4.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\bin\Debug\net5.0\Ejercicio 4.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\ref\Ejercicio 4.dll
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.pdb
+C:\Users\Gigabyte\Desktop\Cursos\Programación\Lenguajes de Programacion\C#\Proyectos MP\Ejercicios\Guia 5 (Ciclos)\Ejercicio 4\Ejercicio 4\obj\Debug\net5.0\Ejercicio 4.genruntimeconfig.cache
